@@ -1,0 +1,44 @@
+.registerDiv{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 12px;
+  border: solid;
+  box-shadow:3px 3px 5px #888;
+  border-color: white;
+  background-color: #7cb342bb;
+  margin-top: 100px;
+
+}
+
+.registerDiv span{
+  margin-left: 20px;
+}
+
+.registerDiv h2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-bottom: 18px;
+}
+
+.registerDiv button{
+  background-color: white;
+  color: #7cb342;
+  --bs-btn-border-color: #7cb342;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #7cb342;
+    --bs-btn-hover-border-color: #ffffff;
+    --bs-btn-focus-shadow-rgb: 49,132,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #7cb342;
+    --bs-btn-active-border-color: #7cb342;
+}
+
+.registerDiv a{
+  color: white !important;
+  cursor: pointer;
+  margin-left: 5px;
+}
