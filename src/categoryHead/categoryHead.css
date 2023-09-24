@@ -1,0 +1,15 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comfortaa&family=Dosis&family=Poppins:ital,wght@1,100&family=Red+Hat+Display:wght@500&family=Shadows+Into+Light&family=Titan+One&family=Zeyada&display=swap');
+
+
+  .CategoryHead{
+    background-color: #7cb342;
+    text-align: center;
+    margin-top: 40px;
+    font-family: Dosis;
+    line-height: 30px;
+    color: white;
+    font-size: larger;
+  }
+
+  
